@@ -30,6 +30,6 @@ spec:
         image: pallavi122/backend:1.0.0
         envFrom:
         - configMapRef:
-          name: backend
+            name: backend
 
 
